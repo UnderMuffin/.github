@@ -4,7 +4,7 @@ We build products shaped by game systems — games, eCommerce, tools, and learni
 **Systems-first. Playable by design.**
 
 ## Projects
-- **PactHunt** — online PvE/PvP card battles (web) → [PactHunt.com](https://pacthunt.com)
+- **[PactHunt.com](https://pacthunt.com)** → online PvE/PvP card battles (web) 
 
 ## What we value
 - **Clarity over cleverness**
