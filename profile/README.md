@@ -1,7 +1,6 @@
 # UnderMuffin Labs
 
-We build products shaped by game systems — games, eCommerce, tools, and learning platforms.
-**Systems-first. Playable by design.**
+We build systems-driven products — games, interactive platforms, and commerce experiences designed as playable systems.
 
 ## Projects
 - **[PactHunt.com](https://pacthunt.com)** → online PvE/PvP card battles (web) 
