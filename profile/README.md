@@ -1,19 +1,20 @@
-# UnderMuffin Games
+# UnderMuffin Labs
 
-We build gameplay-first multiplayer worlds — systems-driven, fast to ship, built to last.
+We build products shaped by game systems — games, eCommerce, tools, and learning platforms.
+**Systems-first. Playable by design.**
 
-## What we’re building
-- **PactHunt** — online PvE/PvP card battles (web)
+## Projects
+- **PactHunt** — online PvE/PvP card battles (web) → [PactHunt.com](https://pacthunt.com)
 
 ## What we value
 - **Clarity over cleverness**
 - **Small loops, shipped often**
-- **Deterministic systems**
-- **Reliable online play**
+- **Deterministic logic**
+- **Reliable real-time infrastructure**
 
 ## Tech
 - **Go** · **Next.js** · **WebSockets** · **PostgreSQL**
 
 ## Contact
-- Website: https://undermuffin.com  
+- Website: [undermuffin.com](https://undermuffin.com)
 - Email: hello@undermuffin.com
